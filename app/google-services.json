@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53046819676",
+    "firebase_url": "https://insclone-6856b.firebaseio.com",
+    "project_id": "insclone-6856b",
+    "storage_bucket": "insclone-6856b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53046819676:android:f24d7c00428c85a7",
+        "android_client_info": {
+          "package_name": "com.example.insapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53046819676-gvr8hvep0cd57thn1unm0f8rs8vpkm5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insapp",
+            "certificate_hash": "5a70753c10c0b1a7fb78993272680d9fe78d4280"
+          }
+        },
+        {
+          "client_id": "53046819676-mgavg62vhihsk3oj02oljmd3hg3i5ouv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WZqX7VFimcy3Rwub3KMArhaKEqVY7BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53046819676-mgavg62vhihsk3oj02oljmd3hg3i5ouv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
